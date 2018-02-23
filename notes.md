@@ -100,7 +100,7 @@ On Success
 ```
 201 CREATED
 {
-    "id": string
+    "gameId": string
 }
 ```
 
